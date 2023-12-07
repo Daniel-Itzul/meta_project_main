@@ -1,0 +1,3 @@
+packages:
+  - local: ../meta_project_sub_marketing
+  - local: ../meta_project_sub_sales 

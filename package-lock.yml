@@ -1,0 +1,4 @@
+packages:
+- local: ../meta_project_sub_marketing
+- local: ../meta_project_sub_sales
+sha1_hash: 12e818674edc6dfc86fa775e2c1305b243999d78
